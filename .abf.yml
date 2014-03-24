@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-PurePerlTests-0.02.tar.gz: 600ed2cc18a05eb285eba0d6393775fadb070208
 sources:
-  "Dist-Zilla-Plugin-PurePerlTests-0.02.tar.gz": 600ed2cc18a05eb285eba0d6393775fadb070208
+  Dist-Zilla-Plugin-PurePerlTests-0.03.tar.gz: 5a361107648f111b2d0bc966efbba94ad0c22415

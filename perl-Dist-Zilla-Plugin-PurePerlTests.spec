@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-PurePerlTests
-%define upstream_version 0.02
+%define upstream_version 0.03
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Run all your tests twice, once with XS code and once with pure Perl
 License:	GPL+ or Artistic
@@ -43,4 +43,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes META.yml LICENSE README META.json
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
