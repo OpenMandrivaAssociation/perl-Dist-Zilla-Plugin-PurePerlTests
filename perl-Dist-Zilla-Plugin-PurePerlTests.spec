@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	1
+Release:	2
 
 Summary:	Run all your tests twice, once with XS code and once with pure Perl
 License:	GPL+ or Artistic
